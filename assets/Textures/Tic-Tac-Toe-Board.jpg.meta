@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "14e79b9e-8a9d-40e2-902e-f11b195f5eb9",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 602,
+  "height": 502,
+  "platformSettings": {},
+  "subMetas": {
+    "Tic-Tac-Toe-Board": {
+      "ver": "1.0.6",
+      "uuid": "1ed8c6d1-faa7-40fb-bb48-ae2680b32e12",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "14e79b9e-8a9d-40e2-902e-f11b195f5eb9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 602,
+      "height": 502,
+      "rawWidth": 602,
+      "rawHeight": 502,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
